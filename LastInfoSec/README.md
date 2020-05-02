@@ -10,4 +10,4 @@ LastInfoSec description :
 LastInfosec offers innovative and automated solutions to collect data, refine it and turn it into useful and actionable information, quickly available to improve the protection, detection and investigation capabilities of companies and government organizations.
 https://www.lastinfosec.com/en/
 
-![LastInfoSec Logo](/connectors/LastInfoSec/logo.png)
+![LastInfoSec Logo](/connectors/LastInfoSec/Original.png)
