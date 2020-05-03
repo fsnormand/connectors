@@ -11,3 +11,4 @@ LastInfosec offers innovative and automated solutions to collect data, refine it
 https://www.lastinfosec.com/en/
 
 ![LastInfoSec Logo](/connectors/LastInfoSec/Original.png)
+Format: ![Alt Text](url)
